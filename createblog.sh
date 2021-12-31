@@ -1,6 +1,4 @@
 # // follow the docs
-# mkdir docs -p
-# cd docs
 jekyll new --skip-bundle .
 
 # // comment out line gem "jekyll" - this should be the first match
